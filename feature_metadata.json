@@ -1,0 +1,8 @@
+{
+    "model_name": "Random Forest",
+    "feature_count": 25,
+    "target_classes": {
+        "0": "normal",
+        "1": "anomaly"
+    }
+}
